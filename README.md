@@ -6,7 +6,7 @@ Après 15 ans passé dans le commerce et passionné depuis toujours par les nouv
 
 Pour relever ce défi, j'ai suivi une formation de 12 mois avec OpenClassrooms. Vous trouverez mes principaux projets sur ce github. 
 
-## Envie d'en savoir plus ? Découvrez mon profil et contacter moi :
+## Envie d'en savoir plus ? Découvrez mon profil et contactez moi :
 
 ➡️ : [LinkedIn ArnaudKif](https://www.linkedin.com/in/arnaud-kiefer/)
 
